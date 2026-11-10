@@ -1,0 +1,2 @@
+Goal:
+Use Claude to reverse engineer physics from given image and genereate generative art code out of it - which can be then exported as svg and plotted with an axidraw. Furthermore we want a consistent UI to play around so we export only what we really like. For automated iteration we want to have two save options, one save-draft  and a save-keeper
